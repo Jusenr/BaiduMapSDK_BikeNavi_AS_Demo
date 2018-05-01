@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\T5\AndroidStudioProjects\BaiduMapSDK_BikeNavi_AS_Demo\libs\BaiduLBS_Android.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b5f5b86bfd41cf72be2db6587ebe61340c8e706e">
+        <dex dex="C:\Users\T5\AndroidStudioProjects\BaiduMapSDK_BikeNavi_AS_Demo\build\intermediates\pre-dexed\debug\BaiduLBS_Android_3d9f5daa61850d10f4b882ab0850a7d93ea3ed16.jar" />
+    </item>
+
+</items>

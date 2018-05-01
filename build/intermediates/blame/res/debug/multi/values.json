@@ -1,0 +1,121 @@
+[
+    {
+        "outputFile": "C:\\Users\\T5\\AndroidStudioProjects\\BaiduMapSDK_BikeNavi_AS_Demo\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "C:\\Users\\T5\\AndroidStudioProjects\\BaiduMapSDK_BikeNavi_AS_Demo\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 220,
+                        "endColumn": 45,
+                        "endOffset": 261
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 101,
+                    "endColumn": 46,
+                    "endOffset": 143
+                },
+                "from": {
+                    "file": "C:\\Users\\T5\\AndroidStudioProjects\\BaiduMapSDK_BikeNavi_AS_Demo\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 122,
+                        "endColumn": 46,
+                        "endOffset": 164
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 148,
+                    "endColumn": 50,
+                    "endOffset": 194
+                },
+                "from": {
+                    "file": "C:\\Users\\T5\\AndroidStudioProjects\\BaiduMapSDK_BikeNavi_AS_Demo\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 169,
+                        "endColumn": 50,
+                        "endOffset": 215
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 199,
+                    "endColumn": 57,
+                    "endOffset": 252
+                },
+                "from": {
+                    "file": "C:\\Users\\T5\\AndroidStudioProjects\\BaiduMapSDK_BikeNavi_AS_Demo\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 155,
+                        "endColumn": 57,
+                        "endOffset": 208
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 257,
+                    "endColumn": 55,
+                    "endOffset": 308
+                },
+                "from": {
+                    "file": "C:\\Users\\T5\\AndroidStudioProjects\\BaiduMapSDK_BikeNavi_AS_Demo\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 213,
+                        "endColumn": 55,
+                        "endOffset": 264
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 313,
+                    "endColumn": 62,
+                    "endOffset": 371
+                },
+                "from": {
+                    "file": "C:\\Users\\T5\\AndroidStudioProjects\\BaiduMapSDK_BikeNavi_AS_Demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 83,
+                        "endColumn": 62,
+                        "endOffset": 141
+                    }
+                }
+            }
+        ]
+    }
+]
